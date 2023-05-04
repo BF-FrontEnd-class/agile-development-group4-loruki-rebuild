@@ -57,13 +57,13 @@ create your own!
   - There is a footer with copyright, navigation bar and social media links at
     the bottom.
 
-### Should-Have-page1
+### Should-Have - page1
 
-### Could-Have-page1
+### Could-Have - page1
 
-## Backlog Features-Page1
+## Backlog Features - page1
 
-## Must-Have-page2
+## Must-Have - page2
 
 - [ ] As a user I want to see title with site name centered on the left
 
@@ -95,11 +95,11 @@ create your own!
     center of the navigation bars and on the right are links to social
     networks..
 
-## Should-Have-page2
+## Should-Have - page2
 
-## Could-Have-page2
+## Could-Have - page2
 
-## Must-Have-page3
+## Must-Have - page3
 
 - [ ] As a user I want to see title with the name of web-site
   - There's a title of website at the top of the left corner.
@@ -116,6 +116,6 @@ create your own!
   - There is a footer with copyright, navigation bar and social media links at
     the bottom.
 
-## Should-Have-page3
+## Should-Have - page3
 
-## Could-Have-page3
+## Could-Have - page3
