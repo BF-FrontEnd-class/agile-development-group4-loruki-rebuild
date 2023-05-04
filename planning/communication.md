@@ -2,15 +2,18 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Should be in touch in Zoom meeting
+- Should participate in discussion
+- Should be on time
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       |             How              | The topic of discussion |
+| --------- | :--------------------------: | ----------------------- |
+| Tuesday   | 09:00 - 12:00, 13:00 - 17:00 | Planning                |
+| Wednesday | 09:00 - 12:00, 13:00 - 17:00 | Planning + Development  |
 
 ## Communication Channels
 
@@ -18,9 +21,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - **Issues**:
 - **Pull Requests**:
-- **GitHub Discussions**
 - **Slack/Discord**:
-- **Video Calls**:
+- **Zoom**:
 
 ---
 
@@ -28,17 +30,21 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day    | Monday | Tuesday | Wednesday | Thursday | Friday |
+| ------ | :----: | :-----: | :-------: | :------: | :----: |
+| Rekha  | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Maria  | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Khalid | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Malik  | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Cris   | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Rekha: 7h;
+- Maria: 7h;
+- Khalid: 7h;
+- Malik: 7h;
+- Cris: 7h;
 
 ## Asking for Help
 
