@@ -1,10 +1,10 @@
-# Name of project
+# Loruki Rebuild
 
-> A longer description
+> This is a hosting platform website.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki Rebuild](#loruki-rebuild)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
