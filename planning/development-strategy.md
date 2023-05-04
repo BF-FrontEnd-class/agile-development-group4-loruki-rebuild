@@ -14,6 +14,8 @@ We are an smooth and elegant hosting platform
 
 ---
 
+## Home page
+
 ## Title
 
 > As an user I can...
@@ -106,7 +108,7 @@ We are an smooth and elegant hosting platform
 - See the footer of the website
 - See the social media links
 
-## Footer: HTML
+### Footer: HTML
 
 - Add `h3` for the copy rights text
 - Add social media links
@@ -117,11 +119,150 @@ We are an smooth and elegant hosting platform
 - Add `footer bg-dark py-5` class
 - The footer text is in the `center`
 
-page 2
+## Features page
 
-page 3
+## Features Title
 
-## title
+> As an user I can...
+
+- Read the title of the website
+- Find the website's title at the top of the page
+
+### Title: HTML
+
+- Add `header` tag
+- Add `h1` for the page title
+
+### Title: CSS
+
+- Add class `logo` to the header
+- The title is in _black_ font color
+
+## Features navigation Bar
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As an user I can...
+
+- See the navigation bar
+- Navigate using the bottons in the navigation panel
+
+### Navigation Bar: HTML
+
+- Add `buttons`
+- Add `li`
+
+### Navigation Bar: CSS
+
+- Add color _white_ to the links
+- Add `cursor:pointer` to the links
+
+## More information
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see more information about this features section.
+
+- There's a short text explanation what our site is for.
+
+### More information: HTML
+
+- add `section`
+- add `div`
+- add `h1`
+- add `img`
+
+### More information: CSS
+
+- add class `features-head bg-primary py-3`
+
+### Additional information
+
+> As a user I want to see additional information
+
+There's a a short description of how the service works with an image
+
+### Additional information: HTML
+
+- add `div`
+- add `h1`
+
+### Additional information: CSS
+
+- add class `features-sub-head bg-light py-3`
+
+### Block of 6 smaller blocks
+
+> As a user I want to see block divided into 6 smaller blocks with additional
+> information about the company.
+
+There are 6 blocks that are combined into one big block with additional
+information about the company.
+
+### Block of 6 smaller blocks: HTML
+
+- add `section`
+- add `p`
+- add `i`
+
+### Block of 6 smaller blocks: CSS
+
+- add class `features-main my-2`
+
+### Footer
+
+> As a user I want to see a footer...
+
+There are the name of the company is on the left in the footer, in the center of
+the navigation bars and on the right are links to social networks..
+
+### Footer: HTML
+
+- add `footer`
+- add `div`
+- add `nav`
+- add `h1`
+- add `p`
+
+### Footer: CSS
+
+- add class `footer bg-dark py-5`
+- add class `container grid grid-3`
+
+## Links
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see the links to more detailed information.
+
+- There are links to more detailed information signed with a short description.
+- this feature is developed on a branch `links`
+
+### Links: HTML
+
+- add `a`
+
+### Links: CSS
+
+- add class `social`
+
+## Images
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see some pictures.
+
+- There are diagrams depicting the operation of the platform.
+
+### Images: HTML
+
+- add `img`
+
+### Images: CSS
+
+## Docs page
+
+## Docs title
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -130,17 +271,17 @@ page 3
 - There's a title of website at the top of the left corner.
 - this feature is developed on a branch `title`
 
-### html
+### Title: HTML
 
 - add `div`
 - add `h1`
 
-### css
+### Title: CSS
 
 - add class `.container` for `header`
 - fix margin and add padding
 
-## navigation bar
+## Navigation bar
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -149,18 +290,18 @@ page 3
 - There is a navigation bars at the top of the right corner.
 - this feature is developed on a branch `navigation-bar`
 
-### html
+### Navigation bar: HTML
 
 - add `nav`
 - add `div`
 - add `ul`
 
-### css
+### Navigation bar: CSS
 
 - add class `navbar` for `nav`
 - add background color, margin and padding
 
-## main content text
+## Main content text
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -169,19 +310,19 @@ page 3
 - There's a short text explanation what our site is for.
 - this feature is developed on a branch `main-content`
 
-### html
+### Main content text: HTML
 
 - add `div`
 - add `h1`
 - add `p`
 - add `img`
 
-### css
+### Main content text: CSS
 
 - add class `container grid` for `article`
 - add class `lead` for description
 
-## links
+## Docs links
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -190,14 +331,14 @@ page 3
 - There are links for more detailed information.
 - this feature is developed on a branch `links`
 
-### html
+### Links: HTML
 
 - add `div`
 - add `h3`
 - add `nav`
 - add `ul`
 
-### css
+### Links: CSS
 
 - add class `card bg-light p-3` and `my-2` for `links`
 - add list-style-type
@@ -211,18 +352,18 @@ page 3
 - There are the detailed information about the links.
 - this feature is developed on a branch `Description-links`
 
-### html
+### Description links: HTML
 
 - add 2 `div`
 - add 2 `h2`
 - add 2 `p`
 
-### css
+### Description links: CSS
 
 - add class `card` for description links
 - add background color and padding
 
-## footer
+## Docs footer
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -233,7 +374,7 @@ page 3
   bottom.
 - this feature is developed on a branch `footer`
 
-### html
+### Footer: HTML
 
 - add 2 `footer`
 - add 2 `div`
@@ -242,7 +383,7 @@ page 3
 - add 2 `nav`
 - add 2 `ul`
 
-### css
+### Footer: CSS
 
 - add class `container grid grid-3` and `social` for footer
 - add height, width and padding
