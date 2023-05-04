@@ -55,18 +55,34 @@ create your own!
   - There is a footer with copyright, navigation bar and social media links at
     the bottom.
 
-## Should-Haves
+### Should-Have
 
-> these will complete the user experience, but are not necessary
+### Could-Have
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+## Backlog Features Page
 
-## Could-Haves
+## Must-Have
 
-> would be really cool ... if there's time
+- [ ] As a user I want to see title with site name centered on the left
+  - There's a title of website at the centered on the left of the page.
+- [ ] As a user I want to see some navigation bars center right next to title
+  - There is a navigation bars against title on the right side
+- [ ] As a user I want to see more information about this features section.
+  - There's a short text explanation what features section is for.
+- [ ] As a user I want to see additional information with an example shown with
+      a light diagram about how the platform works.
+  - There's a a short description of how the service works with an image
+- [ ] As a user I want to see block divided into 6 smaller blocks with
+      additional information about the company.
+  - There are 6 blocks that are combined into one big block with additional
+    information about the company.
+- [ ] As a user I want to see a footer in which the name of the company is added
+      on the left side, in the center is an additional navigation bar, on the
+      right I want to see links to the company's social networks.
+  - There are the name of the company is on the left in the footer, in the
+    center of the navigation bars and on the right are links to social
+    networks..
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+## Should-Have
+
+## Could-Have
