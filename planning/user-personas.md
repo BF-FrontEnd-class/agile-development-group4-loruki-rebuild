@@ -1,6 +1,6 @@
 # User Personas
 
-## This website is a hosting provider in Belgium.
+## This website is a hosting provider in Belgium
 
 <!-- a persona -->
 
