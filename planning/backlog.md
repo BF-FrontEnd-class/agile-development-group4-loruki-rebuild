@@ -5,7 +5,7 @@ level are not necessarily in order, it's up to your group to decide how they fit
 into your strategy. These are also just suggestion, feel free to change them or
 create your own!
 
-## Must-Haves
+## Must-Haves - page1
 
 > these are necessary for basic usability
 
@@ -57,13 +57,13 @@ create your own!
   - There is a footer with copyright, navigation bar and social media links at
     the bottom.
 
-### Should-Have
+### Should-Have - page1
 
-### Could-Have
+### Could-Have - page1
 
-## Backlog Features Page
+## Backlog Features - page1
 
-## Must-Have
+## Must-Have - page2
 
 - [ ] As a user I want to see title with site name centered on the left
 
@@ -95,6 +95,27 @@ create your own!
     center of the navigation bars and on the right are links to social
     networks..
 
-## Should-Have
+## Should-Have - page2
 
-## Could-Have
+## Could-Have - page2
+
+## Must-Have - page3
+
+- [ ] As a user I want to see title with the name of web-site
+  - There's a title of website at the top of the left corner.
+- [ ] As a user I want to see some navigation bars
+  - There is a navigation bars at the top of the right corner.
+- [ ] As a user I want to see information which explains this page.
+  - There's a short text explanation what our page and image against.
+- [ ] As a user I want to see the links for more detailed information.
+  - There are links for more detailed information.
+- [ ] As a user I want to see detailed information about the links.
+  - There are the detailed information about the links.
+- [ ] As a user I want to see footer with copyright, navigation bar and social
+      media links.
+  - There is a footer with copyright, navigation bar and social media links at
+    the bottom.
+
+## Should-Have - page3
+
+## Could-Have - page3
