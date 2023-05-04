@@ -116,3 +116,133 @@ We are an smooth and elegant hosting platform
 
 - Add `footer bg-dark py-5` class
 - The footer text is in the `center`
+
+page 2
+
+page 3
+
+## title
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see title with the name of web-site
+
+- There's a title of website at the top of the left corner.
+- this feature is developed on a branch `title`
+
+### html
+
+- add `div`
+- add `h1`
+
+### css
+
+- add class `.container` for `header`
+- fix margin and add padding
+
+## navigation bar
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see some navigation bars
+
+- There is a navigation bars at the top of the right corner.
+- this feature is developed on a branch `navigation-bar`
+
+### html
+
+- add `nav`
+- add `div`
+- add `ul`
+
+### css
+
+- add class `navbar` for `nav`
+- add background color, margin and padding
+
+## main content text
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see information which explains this site.
+
+- There's a short text explanation what our site is for.
+- this feature is developed on a branch `main-content`
+
+### html
+
+- add `div`
+- add `h1`
+- add `p`
+- add `img`
+
+### css
+
+- add class `container grid` for `article`
+- add class `lead` for description
+
+## links
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see the links for more detailed information.
+
+- There are links for more detailed information.
+- this feature is developed on a branch `links`
+
+### html
+
+- add `div`
+- add `h3`
+- add `nav`
+- add `ul`
+
+### css
+
+- add class `card bg-light p-3` and `my-2` for `links`
+- add list-style-type
+
+## Description links
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see detailed information about the links.
+
+- There are the detailed information about the links.
+- this feature is developed on a branch `Description-links`
+
+### html
+
+- add 2 `div`
+- add 2 `h2`
+- add 2 `p`
+
+### css
+
+- add class `card` for description links
+- add background color and padding
+
+## footer
+
+<!-- each issue created from this section will have the `for: user story` label -->
+
+> As a user I want to see footer with copyright, navigation bar and social media
+> links.
+
+- There is a footer with copyright, navigation bar and social media links at the
+  bottom.
+- this feature is developed on a branch `footer`
+
+### html
+
+- add 2 `footer`
+- add 2 `div`
+- add 2 `h1`
+- add 2 `p`
+- add 2 `nav`
+- add 2 `ul`
+
+### css
+
+- add class `container grid grid-3` and `social` for footer
+- add height, width and padding
