@@ -108,7 +108,7 @@ We are an smooth and elegant hosting platform
 - See the footer of the website
 - See the social media links
 
-## Footer: HTML
+### Footer: HTML
 
 - Add `h3` for the copy rights text
 - Add social media links
@@ -121,7 +121,7 @@ We are an smooth and elegant hosting platform
 
 ## Features page
 
-## Title
+## Features Title
 
 > As an user I can...
 
@@ -138,7 +138,7 @@ We are an smooth and elegant hosting platform
 - Add class `logo` to the header
 - The title is in _black_ font color
 
-## Navigation Bar
+## Features navigation Bar
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -262,7 +262,7 @@ the navigation bars and on the right are links to social networks..
 
 ## Docs page
 
-## Title
+## Docs title
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -322,7 +322,7 @@ the navigation bars and on the right are links to social networks..
 - add class `container grid` for `article`
 - add class `lead` for description
 
-## Links
+## Docs links
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
@@ -363,7 +363,7 @@ the navigation bars and on the right are links to social networks..
 - add class `card` for description links
 - add background color and padding
 
-## Footer
+## Docs footer
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
