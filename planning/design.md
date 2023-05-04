@@ -8,8 +8,8 @@
 <!-- describe the reasoning behind your group's design and wireframe -->
 <!-- include other centralized decisions like fonts, palates, ... -->
 
-![main](/public/design2.png) ![main](../public/design1.png)
-![main](../public/design3.png)
+![main](/public/design2.png) ![feature](../public/design1.png)
+![docs](../public/design3.png)
 
 ## Wireframe(s)
 
