@@ -98,3 +98,24 @@ create your own!
 ## Should-Have
 
 ## Could-Have
+
+## Must-Have
+
+- [ ] As a user I want to see title with the name of web-site
+  - There's a title of website at the top of the left corner.
+- [ ] As a user I want to see some navigation bars
+  - There is a navigation bars at the top of the right corner.
+- [ ] As a user I want to see information which explains this page.
+  - There's a short text explanation what our page and image against.
+- [ ] As a user I want to see the links for more detailed information.
+  - There are links for more detailed information.
+- [ ] As a user I want to see detailed information about the links.
+  - There are the detailed information about the links.
+- [ ] As a user I want to see footer with copyright, navigation bar and social
+      media links.
+  - There is a footer with copyright, navigation bar and social media links at
+    the bottom.
+
+## Should-Have
+
+## Could-Have
