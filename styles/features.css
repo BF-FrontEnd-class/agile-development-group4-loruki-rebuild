@@ -1,5 +1,13 @@
-/** General styling **/
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+:root {
+  --primary-color: #047aed;
+  --secondary-color: #1c3fa8;
+  --dark-color: #002240;
+  --light-color: #f4f4f4;
+  --success-color: #5cb85c;
+  --error-color: #d9534f;
+}
 
 * {
   box-sizing: border-box;
@@ -22,31 +30,9 @@ a {
   color: #333;
 }
 
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: left;
-  height: 100%;
-  width: 100%;
-  margin: 0 auto;
-  background-color: #047aed;
-  padding: 20px;
-}
-
-.logo {
-  margin-left: 520px;
-  color: white;
-}
-
-p {
-  font-size: 20px;
-  color: white;
-}
-
 /* Navbar */
-
 .navbar {
-  background-color: #047aed;
+  background-color: var(--primary-color);
   color: #fff;
   height: 70px;
 }
@@ -67,28 +53,4 @@ p {
 
 .navbar .flex {
   justify-content: space-between;
-}
-
-/** Title **/
-
-h1 {
-  line-height: 1.2;
-  margin: 10px 0;
-  font-size: 50px;
-  color: white;
-}
-
-h2 {
-  font-size: 40px;
-  color: white;
-  margin-left: 530px;
-}
-
-.description {
-  margin-left: 530px;
-}
-
-.server {
-  width: 200px;
-  height: 200px;
 }
