@@ -135,3 +135,17 @@ h2 {
   -moz-transform: skewY(-3deg);
   -ms-transform: skewY(-3deg);
 }
+
+/* welcome text and stats */
+
+.stats {
+  padding-top: 100px;
+  animation: slideInFromBottom 1s ease-in;
+}
+
+/* welcome text */
+
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+}
