@@ -32,7 +32,8 @@
     "Verwijs",
     "Loruki",
     "Todos",
-    "loruki"
+    "loruki",
+    "bottons"
   ],
   "ignorePaths": [
     "node_modules/**",

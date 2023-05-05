@@ -10,10 +10,10 @@
 
 ## Communication Schedule
 
-| Day       |             How              | The topic of discussion |
-| --------- | :--------------------------: | ----------------------- |
-| Tuesday   | 09:00 - 12:00, 13:00 - 17:00 | Planning                |
-| Wednesday | 09:00 - 12:00, 13:00 - 17:00 | Planning + Development  |
+| Day      |             How              | The topic of discussion |
+| -------- | :--------------------------: | ----------------------- |
+| Thursday | 09:00 - 12:00, 13:00 - 17:00 | Planning                |
+| Friday   | 09:00 - 12:00, 13:00 - 17:00 | Planning + Development  |
 
 ## Communication Channels
 
