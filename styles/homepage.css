@@ -149,3 +149,14 @@ h2 {
   max-width: 500px;
   margin: auto;
 }
+
+/* stats info */
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
