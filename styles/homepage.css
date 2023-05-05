@@ -160,3 +160,9 @@ h2 {
   font-size: 20px;
   font-weight: bold;
 }
+
+/* More info cloud */
+
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
+}
