@@ -69,3 +69,9 @@ h2 {
   width: 200px;
   justify-self: flex-end;
 }
+
+/* Sub head img style */
+.features-sub-head img {
+  width: 300px;
+  justify-self: flex-end;
+}
