@@ -61,3 +61,11 @@ h2 {
   line-height: 1.2;
   margin: 10px 0;
 }
+
+/** server image styles **/
+
+.features-head img,
+.docs-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
