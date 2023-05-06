@@ -95,7 +95,8 @@
     "velit",
     "atque",
     "veritatis",
-    "porro"
+    "porro",
+    "discription"
   ],
   "ignorePaths": [
     "node_modules/**",
