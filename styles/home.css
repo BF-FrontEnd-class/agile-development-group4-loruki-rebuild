@@ -1,37 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
-
-:root {
-  --primary-color: #047aed;
-  --secondary-color: #1c3fa8;
-  --dark-color: #002240;
-  --light-color: #f4f4f4;
-  --success-color: #5cb85c;
-  --error-color: #d9534f;
-}
-
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-body {
-  font-family: "Lato", sans-serif;
-  color: #333;
-  line-height: 1.6;
-}
-
-ul {
-  list-style-type: none;
-}
-
-a {
-  text-decoration: none;
-  color: #333;
-}
-
 /* Navbar */
-
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
@@ -56,15 +23,7 @@ a {
   justify-content: space-between;
 }
 
-h1,
-h2 {
-  font-weight: 300;
-  line-height: 1.2;
-  margin: 10px 0;
-}
-
-/* description */
-
+/* Showcase */
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
@@ -90,7 +49,6 @@ h2 {
   animation: slideInFromLeft 1s ease-in;
 }
 
-/* form */
 .showcase-form {
   position: relative;
   top: 60px;
@@ -119,8 +77,6 @@ h2 {
   outline: none;
 }
 
-/* general css for next parts of page */
-
 .showcase::before,
 .showcase::after {
   content: "";
@@ -136,21 +92,16 @@ h2 {
   -ms-transform: skewY(-3deg);
 }
 
-/* welcome text and stats */
-
+/* Stats */
 .stats {
   padding-top: 100px;
   animation: slideInFromBottom 1s ease-in;
 }
 
-/* welcome text */
-
 .stats-heading {
   max-width: 500px;
   margin: auto;
 }
-
-/* stats info */
 
 .stats .grid h3 {
   font-size: 35px;
@@ -161,13 +112,24 @@ h2 {
   font-weight: bold;
 }
 
-/* More info cloud */
+/* Cli */
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
 
+.cli .grid > *:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
+
+/* Cloud */
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
 }
 
-/* Information about technologies */
+/* Languages */
+
 .languages .flex {
   flex-wrap: wrap;
 }
@@ -185,4 +147,51 @@ h2 {
 
 .languages .card:hover {
   transform: translateY(-15px);
+}
+
+/* Animations */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromTop {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromBottom {
+  0% {
+    transform: translateY(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@media (max-width: 1000px) {
+  .showcase-form {
+    width: 340px;
+  }
 }

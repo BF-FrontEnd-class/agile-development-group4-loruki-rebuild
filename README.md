@@ -1,7 +1,7 @@
 # Loruki Rebuild
 
-> The Loruki rebuild project is a practice challenge to hone your project build
-> planning and teamwork skills.
+> The Loruki is a cloud hosting platform supports different programming
+> languages
 
 ## Table of contents
 
@@ -16,8 +16,8 @@
 
 ## General info
 
-> The Loruki website provides an opportunity to get acquainted with the
-> functionality of the company providing Cloud Hosting.
+> A cloud hosting platform, the objective is reverse engineering it using agile
+> methodology
 
 ## Screenshots
 
@@ -27,14 +27,13 @@
 
 - Node 14.16.0
 - VSC code
-- HTML
-- CSS
-- Git
+- HTML5
+- CSS3
 
 ## Setup
 
 - `git clone`
-- `npm run start`
+- `npm install`
 
 ## Status
 
